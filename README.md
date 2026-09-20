@@ -81,10 +81,8 @@ The generated QR code image will be saved in the project directory.
 ```text
 qr-code-generator-python/
 │
-├── main.py
-├── requirements.txt
+├── genimg.py
 ├── README.md
-├── .gitignore
 └── LICENSE
 ```
 
