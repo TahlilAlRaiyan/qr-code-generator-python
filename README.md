@@ -45,7 +45,7 @@ pip install -r requirements.txt
 Run the following command:
 
 ```bash
-python main.py
+python genimg.py
 ```
 
 The program will ask you to enter a URL:
